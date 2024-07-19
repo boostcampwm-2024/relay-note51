@@ -1,5 +1,3 @@
-# relay-note51
-
 ![Untitled](https://github.com/user-attachments/assets/a901d738-2be5-490a-8958-c472a1f57f02)
 
 # 노트 정체성
