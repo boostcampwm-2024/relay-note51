@@ -499,4 +499,15 @@ Day14
 <수행 결과 여기 작성>
 
 ## S013 - 김민석 : 4. 팀원들의 설계를 보고 Gist 댓글로 피드백을 작성하세요!
-<수행 결과 여기 작성>
+
+까먹었다가.. 마지막날에 모든 팀원들의 피드백을 작성했습니다.
+
+<img width="582" alt="image" src="https://gist.github.com/user-attachments/assets/c90155b2-c32b-4c93-9e5e-176fa1ff24a0">
+
+<img width="726" alt="image" src="https://gist.github.com/user-attachments/assets/ae244c6c-662d-46be-a3d6-f2b6cd2a5c97">
+
+<img width="785" alt="image" src="https://gist.github.com/user-attachments/assets/4ebe1f69-b767-496f-8c4a-277eb7397c97">
+
+<img width="717" alt="image" src="https://gist.github.com/user-attachments/assets/1e39d1e4-eea7-48ee-b633-c787c039dda1">
+
+<img width="1063" alt="image" src="https://gist.github.com/user-attachments/assets/6fdb01e7-aa3b-4600-bbe8-d99527c3497e">
